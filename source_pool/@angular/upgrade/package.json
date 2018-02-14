@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "@angular/upgrade@5.2.4",
+      "/GIT_POOL/atlas/atlas_web_core"
+    ]
+  ],
+  "_development": true,
+  "_from": "@angular/upgrade@5.2.4",
+  "_id": "@angular/upgrade@5.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-rNfcZ80n/MJKIj9WeJ711uDzMufXU9VNpyzL4s9M6mT571TKcGm79akngOcih0zto0IosVq7DzhoeFYs9lCf1g==",
+  "_location": "/@angular/upgrade",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@angular/upgrade@5.2.4",
+    "name": "@angular/upgrade",
+    "escapedName": "@angular%2fupgrade",
+    "scope": "@angular",
+    "rawSpec": "5.2.4",
+    "saveSpec": null,
+    "fetchSpec": "5.2.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@angular/upgrade/-/upgrade-5.2.4.tgz",
+  "_spec": "5.2.4",
+  "_where": "/GIT_POOL/atlas/atlas_web_core",
+  "author": {
+    "name": "angular"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "description": "Angular - the library for easing update from v1 to v2",
+  "es2015": "./esm2015/upgrade.js",
+  "homepage": "https://github.com/angular/angular#readme",
+  "license": "MIT",
+  "main": "./bundles/upgrade.umd.js",
+  "module": "./esm5/upgrade.js",
+  "name": "@angular/upgrade",
+  "peerDependencies": {
+    "@angular/core": "5.2.4",
+    "@angular/compiler": "5.2.4",
+    "@angular/platform-browser": "5.2.4",
+    "@angular/platform-browser-dynamic": "5.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "typings": "./upgrade.d.ts",
+  "version": "5.2.4"
+}
